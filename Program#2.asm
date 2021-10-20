@@ -2,13 +2,13 @@
 ; Course number / section:CS_271_001_U2020
 ; Project ID : Program#2						Due date : Jul 12 by 11 : 59pm
 ; Description:
-;		1. Display the program title and programmer¡¯s name.Then prompt the user for their name and greet
+;		1. Display the program title and programmerÂ¡Â¯s name.Then prompt the user for their name and greet
 ;		them(by name).
 ;		2.Prompt the user to enter the number of Fibonacci terms to be displayed.Advise the user to enter
 ;		an integer in the range[1 .. 46].
 ;		3.Get and validate the user input(n).
 ;		4.Calculate and display all of the Fibonacci numbers up to and including the n term.
-;		5.Display a parting message that includes the user¡¯s name, and terminate the program.
+;		5.Display a parting message that includes the userÂ¡Â¯s name, and terminate the program.
 
 
 INCLUDE Irvine32.inc
