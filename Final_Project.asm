@@ -5,11 +5,11 @@
 ;				Alex and Sila are espionage agents working for the Top Secret Agency(TSA).Sometimes they
 ;			discuss sensitive intelligence information that needs to be kept secret from the Really Bad Guys
 ;			(RBG).Alex and Sila have decided to use a simple obfuscation algorithm that should be good
-;			enough to confuse the RBG.As the TSA¡¯s resident programmer you¡¯ve been assigned to write a
+;			enough to confuse the RBG.As the TSAÂ¡Â¯s resident programmer youÂ¡Â¯ve been assigned to write a
 ;			 MASM procedure that will implement the requested behavior.Your code must be capable of
 ;			encrypting and decrypting messages(and meet the other requirements given in this document).This
 ;			final project is written less like an academic assignment and more like a real - life programming task.
-;			This might seem daunting at first but don¡¯t despair!
+;			This might seem daunting at first but donÂ¡Â¯t despair!
 ;
 ; **EC:Ensure that the "decoy" mode correctly returns the sum of ANY signed 16 bit numbers
 ; **EC:Implement the key generation mode as described in the documentation.
